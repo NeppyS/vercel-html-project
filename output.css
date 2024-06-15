@@ -1,0 +1,11 @@
+/* Tailwind Imports */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles */
+body {
+  font-family: Arial, sans-serif; /* Example of custom font */
+}
+
+/* Add any additional custom styles here */
